@@ -67,3 +67,8 @@ python kakuro_solver.py
 ## Licencia
 
 Este proyecto es para fines educativos y no tiene licencia específica.
+
+## Recursos Adicionales
+
+* **Video de Sustentación:** [Ver Video de Sustentación](https://youtu.be/Xt8fWR1vCVw?si=h0Hh4DFbNvuBr7YR)
+* **Código en Google Colab:** [Abrir en Google Colab](https://colab.research.google.com/drive/1hdf_L4DZfc9EnZpg17p6uO9lOMh8CSEp?usp=sharing)
